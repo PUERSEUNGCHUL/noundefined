@@ -1,0 +1,13 @@
+{
+    "name": "noundefined",
+    "version": "0.1.0",
+    "description": "A lightweight JavaScript utility library to avoid unexpected null/undefined issues.",
+    "main": "src/index.js",
+    "type": "module",
+    "keywords": ["undefined", "null", "safe", "utils", "javascript"],
+    "author": "LEE SEUNGCHUL",
+    "license": "MIT",
+    "publishConfig": {
+      "access": "public"
+    }
+  }
