@@ -1,6 +1,6 @@
 {
     "name": "noundefined",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "A lightweight JavaScript utility library to avoid unexpected null/undefined issues.",
     "main": "src/index.js",
     "type": "module",
@@ -9,5 +9,13 @@
     "license": "MIT",
     "publishConfig": {
       "access": "public"
-    }
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/PUERSEUNGCHUL/noundefined.git"
+    },
+    "bugs": {
+      "url": "https://github.com/PUERSEUNGCHUL/noundefined/issues"
+    },
+    "homepage": "https://github.com/PUERSEUNGCHUL/noundefined.git"
   }
